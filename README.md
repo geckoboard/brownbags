@@ -12,7 +12,7 @@ We don't order pizza or provide beer for you so bring your own brown bag.
 
 ## Next brown bag
 
-* Time and date: 2pm to 2:50pm on Friday, 24th October
+* Schedule: 2pm to 2:50pm on Friday, 24th October
 * Speaker: Vivien Schilis ([github](https://github.com/vivienschilis), [twitter](https://twitter.com/vivienschilis))
 * Topics: HA proxy, building AMI with packer and coffee spill
 * RSVP: LINK to ISSUE
