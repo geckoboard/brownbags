@@ -1,4 +1,4 @@
-At [Geckoboard](https://www.geckoboard.com), our engineering team occasionally have [brown bag talk](http://en.wikipedia.org/wiki/Brown-bag_seminar).
+Geckoboard engineering team occasionally have [brown bag talk](http://en.wikipedia.org/wiki/Brown-bag_seminar).
 At the event, an engineer shares an experience from recent work and people discuss on/off the topic afterwards.
 It's usually happened in Friday afternoon with 20 - 30 minute talk and 10 - 20 minute chat/discussion.
 
