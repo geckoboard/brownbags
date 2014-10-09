@@ -1,6 +1,6 @@
 Geckoboard engineering team occasionally have [brown bag talk](http://en.wikipedia.org/wiki/Brown-bag_seminar).
-At the event, an engineer shares an experience from recent work and people discuss on/off the topic afterwards.
-It's usually happened in Friday afternoon with 20 - 30 minute talk and 10 - 20 minute chat/discussion.
+At the event, an engineer shares an experience from recent work and we discuss on/off the topic afterwards.
+It's usually happened in a Friday afternoon with 20 - 30 minute talk and 10 - 20 minute chat/discussion.
 
 We open the door to our neighbour software engineer friends because it's always fun to get different views from different angle.
 Come along if you are intrigued.
