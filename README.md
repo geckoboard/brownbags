@@ -21,7 +21,8 @@ We don't order pizza or provide beer for you so bring your own brown bag.
 
 * At [Geckoboard office](http://4sq.com/LB8eUs) in Shoreditch
 * Unit 310(3rd floor), Curtain House 134 - 146 Curtain Road, London, EC2A 3AR
-* Cyclists: use car entrance otherwise the receptionist would go really mad
+* Warning to cyclists: use car entrance otherwise the receptionist would go mad. Feel free to bring it up to our office.
+
 PUT PHOTO HERE
 
 ## Past brown bag
