@@ -12,10 +12,17 @@ We don't order pizza or provide beer for you so bring your own brown bag.
 
 ## Next brown bag
 
-* Date: TBD
+* Time and date: 2pm to 2:50pm on Friday, 24th October
 * Speaker: Vivien Schilis ([github](https://github.com/vivienschilis), [twitter](https://twitter.com/vivienschilis))
 * Topics: HA proxy, building AMI with packer and coffee spill
 * RSVP: LINK to ISSUE
+
+## Venue
+
+* At [Geckoboard office](http://4sq.com/LB8eUs) in Shoreditch
+* Unit 310(3rd floor), Curtain House 134 - 146 Curtain Road, London, EC2A 3AR
+* Cyclists: use car entrance otherwise the receptionist would go really mad
+PUT PHOTO HERE
 
 ## Past brown bag
 
