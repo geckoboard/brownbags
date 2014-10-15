@@ -22,7 +22,7 @@ We don't order pizza or provide beer for you so bring your own brown bag.
 [Geckoboard office](http://4sq.com/LB8eUs) in Shoreditch
 
 * Address: Unit 310, Curtain House 134 - 146 Curtain Road, London, EC2A 3AR
-* Cyclists: Feel free to bring your bike up to our office. Make sure using car entrance otherwise the receptionist would go mad.
+* Cyclists: Feel free to bring your bike up to our office. Make sure you use the car entrance otherwise the receptionist will go mad.
 
 ![photo](https://dl.dropboxusercontent.com/u/29379898/IMG_2153.jpg)
 
