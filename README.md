@@ -14,7 +14,7 @@ We don't order pizza or provide beer for you so bring your own brown bag.
 
 * Schedule: 2pm to 2:50pm on Friday, 24th October
 * Speaker: Vivien Schilis ([github](https://github.com/vivienschilis), [twitter](https://twitter.com/vivienschilis))
-* Topics: HA proxy, building AMI with packer and coffee spill
+* Topics: [HAProxy](http://www.haproxy.org/) with [Consul](http://www.consul.io/), building AMI with packer and coffee spill
 * RSVP: [Leave a comment](https://github.com/geckoboard/brownbags/issues/1)
 
 ## Venue
