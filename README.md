@@ -12,10 +12,7 @@ We don't order pizza or provide beer for you so bring your own brown bag.
 
 ## Next brown bag
 
-* Schedule: 2pm to 2:50pm on Friday, 24th October
-* Speaker: Vivien Schilis ([github](https://github.com/vivienschilis), [twitter](https://twitter.com/vivienschilis))
-* Topics: [HAProxy](http://www.haproxy.org/) with [Consul](http://www.consul.io/)
-* RSVP: [Leave a comment](https://github.com/geckoboard/brownbags/issues/1)
+To be announced
 
 ## Venue
 
@@ -25,6 +22,14 @@ We don't order pizza or provide beer for you so bring your own brown bag.
 * Cyclists: Feel free to bring your bike up to our office. Make sure you use the car entrance otherwise the receptionist will go mad.
 
 ![photo](https://dl.dropboxusercontent.com/u/29379898/IMG_2153.jpg)
+
+## Last brown bag
+
+* Schedule: 2pm to 2:50pm on Friday, 24th October
+* Speaker: Vivien Schilis ([github](https://github.com/vivienschilis), [twitter](https://twitter.com/vivienschilis))
+* Topics: [HAProxy](http://www.haproxy.org/) with [Consul](http://www.consul.io/)
+* RSVP: [Leave a comment](https://github.com/geckoboard/brownbags/issues/1)
+
 
 ## Past brown bag
 
