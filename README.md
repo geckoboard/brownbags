@@ -12,7 +12,10 @@ We don't order pizza or provide beer for you so bring your own brown bag.
 
 ## Next brown bag
 
-To be announced
+* Schedule: 2pm to 3pm on Friday, 16th January, 2015
+* Speaker: Carl Whittaker ([github](https://github.com/carlw))
+* Topics: Refactoring on front-end code
+* RSVP: [Leave a comment](https://github.com/geckoboard/brownbags/issues/2)
 
 ## Venue
 
@@ -23,14 +26,7 @@ To be announced
 
 ![photo](https://dl.dropboxusercontent.com/u/29379898/IMG_2153.jpg)
 
-## Last brown bag
-
-* Schedule: 2pm to 2:50pm on Friday, 24th October
-* Speaker: Vivien Schilis ([github](https://github.com/vivienschilis), [twitter](https://twitter.com/vivienschilis))
-* Topics: [HAProxy](http://www.haproxy.org/) with [Consul](http://www.consul.io/)
-* RSVP: [Leave a comment](https://github.com/geckoboard/brownbags/issues/1)
-
-
 ## Past brown bag
 
+* [HAProxy](http://www.haproxy.org/) with [Consul](http://www.consul.io/) by @vivienschilis (October, 2014)
 * Reactive programing with javascript by Carl
