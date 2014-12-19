@@ -12,7 +12,7 @@ We don't order pizza or provide beer for you so bring your own brown bag.
 
 ## Next brown bag
 
-* Schedule: 2pm to 3pm on Friday, 16th January, 2015
+* Schedule: 2pm 〜 3pm on Friday, 16th January, 2015
 * Speaker: [Carl Whittaker](https://github.com/carlw)
 * Subject: Refactoring on front-end code
 * RSVP: [Leave a comment](https://github.com/geckoboard/brownbags/issues/2)
