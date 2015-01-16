@@ -12,10 +12,7 @@ We don't order pizza or provide beer for you so bring your own brown bag.
 
 ## Next brown bag
 
-* Schedule: 2pm 〜 3pm on Friday, 16th January, 2015
-* Speaker: [Carl Whittaker](https://github.com/carlw)
-* Subject: Living with other people's code
-* RSVP: [Leave a comment](https://github.com/geckoboard/brownbags/issues/2)
+TBD
 
 ## Venue
 
@@ -28,5 +25,6 @@ We don't order pizza or provide beer for you so bring your own brown bag.
 
 ## Past brown bag
 
+* [Living with other people's code](https://github.com/geckoboard/brownbags/issues/2) by @carlw (January, 2015)
 * [HAProxy](http://www.haproxy.org/) with [Consul](http://www.consul.io/) by @vivienschilis (October, 2014)
 * Reactive programing with javascript by Carl
