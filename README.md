@@ -23,7 +23,7 @@ TBD
 
 ![photo](https://dl.dropboxusercontent.com/u/29379898/IMG_2153.jpg)
 
-## Past brown bag
+## Past brown bags
 
 * [Living with other people's code](https://github.com/geckoboard/brownbags/issues/2) by @carlw (January, 2015)
 * [HAProxy](http://www.haproxy.org/) with [Consul](http://www.consul.io/) by @vivienschilis (October, 2014)
