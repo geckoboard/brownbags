@@ -12,11 +12,7 @@ We don't order pizza or provide beer for you so bring your own brown bag.
 
 ## Next brown bag
 
-* Schedule: 2pm to 3pm on Friday, 20th February, 2015
-* Speaker: Tatsuya Ono
-* Subject: Observing computers
-
-[Details and RSVP](https://github.com/geckoboard/brownbags/issues/3)
+TBD
 
 ## Venue
 
